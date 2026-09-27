@@ -5,7 +5,6 @@ Credit to Claude.ai for writing most of the code.
 
 See example, SerLCD0_Test.ino and serlcd0-user-guide.md for info.
 
-Continued Sparkfun's license + MIT:
 License: MIT (see LICENSE). Portions are based on SparkFun's SerLCD library, which is beerware: if you see a SparkFun employee at the local and found this code helpful, buy them a round. Distributed as-is; no warranty.
 
 Distributed as-is; no warranty is given.
